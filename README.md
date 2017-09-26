@@ -8,7 +8,7 @@ Customer feedback drives development at [Timber](https://timber.io); please shar
 2. [**`status/scheduled`**](https://github.com/timberio/feature-requests/labels/status%2Fscheduled) - Has been assigned to a [quarterly milestone](https://github.com/timberio/feature-requests/milestones). Priority is subject to change based on continued upvoting and feedback.
 3. [**`status/wip`**](https://github.com/timberio/feature-requests/labels/status%2Fwip) - An issue owner has be assigned, a feature specification has been defined, and the issue is currently being worked on.
 4. [**`status/beta`**](https://github.com/timberio/feature-requests/labels/status%2Fbeta) - Feature is available for beta testing, [contact us](mailto:support@timber.io) to request access.
-5. [**`status/complete`**](https://github.com/timberio/feature-requests/labels/status%2Fcomplete) - The issue is complete and available for public access. An associated changelog post will be referenced as well as [documentation](https://timber.io/docs) (if relevant).
+5. [**`status/complete`**](https://github.com/timberio/feature-requests/labels/status%2Fcomplete) - The issue is complete and available for public access. An associated [changelog post](https://timber.io/changelog) will be referenced as well as [documentation](https://timber.io/docs) (if relevant).
 
 ## Roadmap
 

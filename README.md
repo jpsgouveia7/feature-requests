@@ -5,9 +5,9 @@ Customer feedback drives development at [Timber](https://timber.io); please shar
 ## Issue Lifecycle
 
 1. [**`Status: Open`**](https://github.com/timberio/feature-requests/labels/status%2Fopen) - Discussion is open; pending approval and scheduling.
-2. [**`Status: Scheduled`**](https://github.com/timberio/feature-requests/labels/status%2Fscheduled) - Has been assigned to a quarter. Priority is subject to change based on continued upvoting and feedback.
+2. [**`Status: Scheduled`**](https://github.com/timberio/feature-requests/labels/status%2Fscheduled) - Has been assigned to a quarter, priority is subject to change based on feedback.
 4. [**`Status: Beta`**](https://github.com/timberio/feature-requests/labels/status%2Fbeta) - Feature is available for beta testing, [contact us](mailto:support@timber.io) to request access.
-3. [**`Status: Complete`**](https://github.com/timberio/feature-requests/labels/status%2Fcomplete) - The issue is complete and available for public access. An associated [changelog post](https://timber.io/changelog) will be referenced as well as [documentation](https://timber.io/docs) (if relevant).
+3. [**`Status: Complete`**](https://github.com/timberio/feature-requests/labels/status%2Fcomplete) - Issue is complete and available, an associated [changelog post](https://timber.io/changelog) will be referenced.
 
 ## Roadmap
 

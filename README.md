@@ -11,7 +11,7 @@ Customer feedback drives development at [Timber](https://timber.io); please shar
 
 ## Roadmap
 
-Our public roadmap is organized by quarters. Issues that have been assigned to a querter will receive the [`Status: Scheduled` label](https://github.com/timberio/feature-requests/issues?q=is%3Aissue+is%3Aopen+label%3A%22Status%3A+Scheduled%22) as well as it's repsective quarter label.
+Our public roadmap is organized by quarters. Issues that have been assigned to a quarter will receive the [`Status: Scheduled` label](https://github.com/timberio/feature-requests/issues?q=is%3Aissue+is%3Aopen+label%3A%22Status%3A+Scheduled%22) as well as it's respective quarter label.
 
 ## Upvoting
 

@@ -4,15 +4,14 @@ Customer feedback drives development at [Timber](https://timber.io); please shar
 
 ## Issue Lifecycle
 
-1. [**`status/open`**](https://github.com/timberio/feature-requests/labels/status%2Fopen) - Discussion is open; pending approval and scheduling.
-2. [**`status/scheduled`**](https://github.com/timberio/feature-requests/labels/status%2Fscheduled) - Has been assigned to a [quarterly milestone](https://github.com/timberio/feature-requests/milestones). Priority is subject to change based on continued upvoting and feedback.
-3. [**`status/wip`**](https://github.com/timberio/feature-requests/labels/status%2Fwip) - An issue owner has be assigned, a feature specification has been defined, and the issue is currently being worked on.
-4. [**`status/beta`**](https://github.com/timberio/feature-requests/labels/status%2Fbeta) - Feature is available for beta testing, [contact us](mailto:support@timber.io) to request access.
-5. [**`status/complete`**](https://github.com/timberio/feature-requests/labels/status%2Fcomplete) - The issue is complete and available for public access. An associated [changelog post](https://timber.io/changelog) will be referenced as well as [documentation](https://timber.io/docs) (if relevant).
+1. [**`Status: Open`**](https://github.com/timberio/feature-requests/labels/status%2Fopen) - Discussion is open; pending approval and scheduling.
+2. [**`Status: Scheduled`**](https://github.com/timberio/feature-requests/labels/status%2Fscheduled) - Has been assigned to a quarter. Priority is subject to change based on continued upvoting and feedback.
+4. [**`Status: Beta`**](https://github.com/timberio/feature-requests/labels/status%2Fbeta) - Feature is available for beta testing, [contact us](mailto:support@timber.io) to request access.
+3. [**`Status: Complete`**](https://github.com/timberio/feature-requests/labels/status%2Fcomplete) - The issue is complete and available for public access. An associated [changelog post](https://timber.io/changelog) will be referenced as well as [documentation](https://timber.io/docs) (if relevant).
 
 ## Roadmap
 
-Our public roadmap is organized by [quarterly milestones](https://github.com/timberio/feature-requests/milestones). We do not plan beyond one quarter in advance.
+Our public roadmap is organized by quarters. Issues that have been assigned to a querter will receive the [`Status: Scheduled` label](https://github.com/timberio/feature-requests/issues?q=is%3Aissue+is%3Aopen+label%3A%22Status%3A+Scheduled%22) as well as it's repsective quarter label.
 
 ## Upvoting
 
